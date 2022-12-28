@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "jsx": "preserve",
+    "baseUrl": ".",
+    "paths": {
+      "@minology/*": ["./minology/*"],
+      "@app/*": ["./src/app/*"],
+      "@pages/*": ["./src/pages/*"],
+      "@config/*": ["./src/config/*"],
+      "@provider/*": ["./src/providers/*"],
+      "@route/*": ["./src/routes/*"],
+      "@assets/*": ["./src/assets/*"]
+    }
+  }
+}

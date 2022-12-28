@@ -1,0 +1,3 @@
+[submodule "minology"]
+	path = minology
+	url = git@github.com:minology-id/minology-react-components.git
